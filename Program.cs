@@ -8,6 +8,7 @@
     "Spongebob Squarepants",
     "Inano",
     "Kevin",
+    "Alan",
     "Manny",
     // Add your name above this line! (Do not delete this)
 ];
